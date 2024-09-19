@@ -1,0 +1,48 @@
+SN,Items,Price,Categories
+1,Whopper,8,burger
+2,Bacon Double X L,8,burger
+3,PB Whopper,8,burger
+4,Chilli Jam Whopper,10,burger
+5,Ham Burger,2,burger
+6,Cheese Burger,3,burger
+7,Bacon Double,5,burger
+8,Steakhouse Angus,9,burger
+9,Steakhouse Chicken,9,burger
+10,Classic Double Melt,3,burger
+11,Barbeque Double Melt,3,burger
+12,Chimichuri Chicken,9,burger
+13,Chimichuri Angus,9,burger
+14,Bacon Stacker,5,burger
+15,Chilli Jam Halumi,5,burger
+16,Chicken Royale,8,burger
+17,Vegan Royale,8,burger
+18,3 Chilli Bites,3,sides
+19,4 Chilli Bites,4,sides
+20,6 Chilli Bites,6,sides
+21,9 Chilli Bites,8,sides
+22,20 Chilli Bites,10,sides
+23,4 Nuggets,4,sides
+24,6 Nuggets,6,sides
+25,9 Nuggets,9,sides
+26,20 Nuggets,10,sides
+27,5 Doritos,5,sides
+28,6 Doritos,6,sides
+29,9 Doritos,8,sides
+30,20 Doritos,10,sides
+31,Cocacola Classic,3,drinks
+32,Cocacola Zero,3,drinks
+33,Diet Cocacola,3,drinks
+34,Sprite Zero,3,drinks
+35,Fanta,3,drinks
+36,Water,3,drinks
+37,Tea,3,drinks
+38,Mayo,1,dips
+39,Hot Chilli,1,dips
+40,Barbeque Sauce,1,dips
+41,Spicy Mayo,1,dips
+42,Fries,3,fries
+43,Small Fries,2,fries
+44,Large Fries,4,fries
+45,Cheese Loaded Fries,5,fries
+46,Bacon Loaded Fries,5,fries
+47,Chimichuri Loaded Fries,5,fries
